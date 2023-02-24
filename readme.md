@@ -44,3 +44,5 @@ data structure that keep track of
 ### Breath-First-Search
 - explore the shallowest node in the frontier
 - first in first out (FIFO)
+
+# knowledge
