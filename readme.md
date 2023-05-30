@@ -46,3 +46,8 @@ data structure that keep track of
 - first in first out (FIFO)
 
 # knowledge
+
+# learning
+- Supervised Learning 
+- Reinforcement Learning 
+- Unsupervised Learning
